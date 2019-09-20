@@ -1,4 +1,5 @@
-// https://techtutorialsx.com/2016/10/03/esp8266-setting-a-simple-http-webserver/
+// adapted from tutorial: https://techtutorialsx.com/2016/10/03/esp8266-setting-a-simple-http-webserver/
+// to be flashed to ESP8266 NodeMCU
 
 #include "ESP8266WiFi.h"
 #include "ESP8266WebServer.h"
